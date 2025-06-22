@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neha Verma
 ==================================================================================================================================
 
-Backend Developer
------------------
+Senior Software Engineer - L3
+-----------------------------
 
 I’m a Senior Backend Engineer with over 6 years of experience in architecting, building, and scaling powerful backend systems using Node.js, TypeScript, AWS, Kafka, and Microservices. My work spans diverse industries including e-commerce, fitness tech, logistics, education (scholarship platforms), and hackathon management systems, including Shopify apps, real-time chat systems, and automated deployment pipelines.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [nehaverma1997@gmail.com](mailto:nehaverma1997@gmail.com)
+* ✉️  You can check my portfolio at [nehaverma1997@gmail.com](http://nehaverma.in/)
 * 🧠  I'm learning GoLang & Blockchain
 
 <a href="https://www.github.com/nehaverma1997" target="_blank" rel="noreferrer"><img
