@@ -7,7 +7,7 @@ Senior Software Engineer - L3
 I’m a Senior Backend Engineer with over 6 years of experience in architecting, building, and scaling powerful backend systems using Node.js, TypeScript, AWS, Kafka, and Microservices. My work spans diverse industries including e-commerce, fitness tech, logistics, education (scholarship platforms), and hackathon management systems, including Shopify apps, real-time chat systems, and automated deployment pipelines.
 
 * 🌍  I'm based in India
-* ✉️  You can check my portfolio at [nehaverma1997@gmail.com](http://nehaverma.in/)
+* ✉️  You can check my portfolio at [http://nehaverma.in](http://nehaverma.in/)
 * 🧠  I'm learning GoLang & Blockchain
 
 <a href="https://www.github.com/nehaverma1997" target="_blank" rel="noreferrer"><img
