@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neha Verma
 ==================================================================================================================================
 
-Senior Software Engineer - L3
+Backend Developer - L3
 -----------------------------
 
-I’m a Senior Backend Engineer with over 6 years of experience in architecting, building, and scaling powerful backend systems using Node.js, TypeScript, AWS, Kafka, and Microservices. My work spans diverse industries including e-commerce, fitness tech, logistics, education (scholarship platforms), and hackathon management systems, including Shopify apps, real-time chat systems, and automated deployment pipelines.
+I'm a Backend Engineer (L3) with 7+ years of experience building scalable, high-performance backend systems. Skilled in Node.js, TypeScript, Nest.js, microservices, and cloud-native architectures, I specialize in designing APIs, authentication systems, and full-fledged platforms from scratch. Passionate about efficient, maintainable, and reliable backend solutions, I thrive in collaborative teams and enjoy mentoring and learning new technologies.
 
 * 🌍  I'm based in India
 * ✉️  You can check my portfolio at [http://nehaverma.in](http://nehaverma.in/)
