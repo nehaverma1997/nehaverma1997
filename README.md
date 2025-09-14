@@ -8,7 +8,7 @@ I'm a Backend Engineer (L3) with 7+ years of experience building scalable, high-
 
 * 🌍  I'm based in India
 * ✉️  You can check my portfolio at [http://nehaverma.in](http://nehaverma.in/)
-* 🧠  I'm learning GoLang & Blockchain
+* 🧠  I'm learning Generative AI & Advanced System Architecture
 
 <a href="https://www.github.com/nehaverma1997" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/nehaverma1997?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
