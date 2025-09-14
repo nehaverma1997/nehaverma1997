@@ -7,7 +7,7 @@ Backend Developer - L3
 I'm a Backend Engineer (L3) with 7+ years of experience building scalable, high-performance backend systems. Skilled in Node.js, TypeScript, Nest.js, microservices, and cloud-native architectures, I specialize in designing APIs, authentication systems, and full-fledged platforms from scratch. Passionate about efficient, maintainable, and reliable backend solutions, I thrive in collaborative teams and enjoy mentoring and learning new technologies.
 
 * 🌍  I'm based in India
-* ✉️  You can check my portfolio at [http://nehaverma.in](https://nehaverma.in/)
+* ✉️  You can check my portfolio at [Neha Verma](https://nehaverma.in/)
 * 🧠  I'm learning Generative AI & Advanced System Architecture
 
 <a href="https://www.github.com/nehaverma1997" target="_blank" rel="noreferrer"><img
